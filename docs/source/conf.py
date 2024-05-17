@@ -6,7 +6,7 @@ project = 'POC'
 copyright = '2024, nvk0x'
 author = '@nvk0x'
 
-release = '0.1'
+release = ''
 version = '0.1.0'
 
 # -- General configuration
