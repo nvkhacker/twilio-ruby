@@ -2,9 +2,8 @@
 
 # -- Project information
 
-project = 'POC'
+project = 'poc'
 copyright = '2024, nvk0x'
-author = '@nvk0x'
 
 release = ''
 version = '0.1.0'
