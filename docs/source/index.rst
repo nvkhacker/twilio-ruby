@@ -1,10 +1,6 @@
-Hacked by nvk0x
-
-https://nvk0x.github.io
+POC by nvk0x
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-   draft/OIP-3
